@@ -26,7 +26,7 @@ This is the customer version of the hotel management web app, where users can:
 
 ### 📌 Live Demo
 
-[The Wild Oasis - Customer](https://the-wild-oasis-customer-website-brown.vercel.app/)
+[The Wild Oasis - Customer](https://the-wild-oasis-customer-website-drab.vercel.app/)
 
 ---
 
