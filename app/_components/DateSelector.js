@@ -5,7 +5,6 @@ import {
   isPast,
   isSameDay,
   isWithinInterval,
-  startOfDay,
 } from "date-fns";
 import { DayPicker } from "react-day-picker";
 

@@ -1,6 +1,5 @@
 "use client";
 import { TrashIcon } from "@heroicons/react/24/solid";
-import SpinnerMini from "./SpinnerMini";
 
 function DeleteReservation({ bookingId, onDelete }) {
   return (
