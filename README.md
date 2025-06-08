@@ -28,7 +28,7 @@ This is the customer version of the hotel management web app, where users can:
 
 [The Wild Oasis - Customer](https://the-wild-oasis-customer-website-drab.vercel.app/)
 
----
+----
 
 ### 🚀 Getting Started
 
